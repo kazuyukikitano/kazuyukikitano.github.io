@@ -17,6 +17,7 @@ body
     background-color: #fdfcf6;
 }
 
+}
 a
 {
     text-decoration: none;
@@ -74,17 +75,13 @@ section h2,
 {
     font-size: 20px;
     line-height: 0;
-    
     display: block;
     float: right;
-    
     width: 20px;
     height: 20px;
     margin: 20px 20px 0 0;
     padding: 10px;
-    
     text-align: center;
-    
     color: #4c4c4c;
     border: 2px solid #4c4c4c;
     -webkit-border-radius: 4px;
@@ -206,15 +203,11 @@ section h2
     margin-bottom: 50px;
     color: #800000;
 }
-#contact h2{
- color: #800000;
-}
-
 #works .works-box
 {
     float: left;
-    width: 33.33333%;
-    height: 100%;
+    width: 1200px;
+    height: 690px;
 }
 
 #works .works-box a
