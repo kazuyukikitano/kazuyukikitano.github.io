@@ -206,8 +206,8 @@ section h2
 #works .works-box
 {
     float: left;
-    width: 1200px;
-    height: 690px;
+    width: 33.33333%;
+    height: 100%;
 }
 
 #works .works-box a
